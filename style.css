@@ -6,7 +6,7 @@
 body {
   font-family: 'Assistant', sans-serif;
   font-size: 100%;
-  background: #89917C;
+  background: #fff;
   margin: 0;
   padding: 0;
 }
@@ -38,7 +38,7 @@ h1{
 
 
 nav{
-  background-color: #ABBA93;
+  background-color: #712f7c;
   margin: 0 auto;
   max-width: 100%;
 }
